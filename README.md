@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `Step 1 :install`
+### `Step 1 :yarn install`
 
 ### `Step 2 :yarn start`
 
